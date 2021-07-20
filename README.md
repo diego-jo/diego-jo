@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Diego Oliveira from Brazil</h1>
+<h1 align="center">Hi, I'm Diego Oliveira</h1>
 <h2 align="center">A backend developer, passionate about learning and challenges</h2>
 
 <h4 align="left"> About me: </h4>
