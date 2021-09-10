@@ -7,7 +7,7 @@ I'm a backend developer with experience as an infrastructure analyst and support
 
 
 - I'm currently working at [Zup IT Innovation](https://www.zup.com.br)
-- I'm a continuous learner of Javascript and NodeJS ecosystem, and learning Elixir.
+- I'm a continuous learner of Javascript and NodeJS ecosystem, and learning something new.
 - Evolving my english learning.
 
 <h4 align="left">Connect with me:</h3>
