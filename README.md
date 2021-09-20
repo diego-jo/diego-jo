@@ -3,11 +3,11 @@
 
 <h4 align="left"> About me: </h4>
 
-I'm a backend developer with experience as an infrastructure analyst and support analyst. Having worked with customers to provide support for any queries related to the current software used, which allowed me to really listen and extract the key points to be covered, in addition to exposing technical issues with a non-technical vocabulary. I'm always looking to learn something, because I think that learning is the best way to keep evolving, and a bridge to share knowledge.
+I'm a backend developer with experience as an infrastructure analyst and support analyst. Having worked with customers to provide support for any queries related to the current software used, which allowed me to really listen and extract the key points to be covered, in addition to exposing technical issues with a non-technical vocabulary. I'm always looking to learn something new, because I think that learning is the best way to keep evolving, and a bridge to share knowledge.
 
 
 - I'm currently working at [Zup IT Innovation](https://www.zup.com.br)
-- I'm a continuous learner of Javascript and NodeJS ecosystem, and learning something new.
+- I'm a continuous learner of Javascript and NodeJS ecosystem.
 - Evolving my english learning.
 
 <h4 align="left">Connect with me:</h3>
